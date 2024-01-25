@@ -1,2 +1,2 @@
 #!/bin/bash
-display_confused_smiley
+echo $confused_smiley
