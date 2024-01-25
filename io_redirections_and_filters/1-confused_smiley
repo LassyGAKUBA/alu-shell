@@ -1,2 +1,2 @@
 #!/bin/bash
-'\e[1mÔo\e[0m\''o'\n'
+echo "(Ôo)'"
