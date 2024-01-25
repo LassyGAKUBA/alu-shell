@@ -1,2 +1,2 @@
 #!/bin/bash
-confused_smiley="(Ôo)'"
+'\e[1mÔo\e[0m\''o'\n'
